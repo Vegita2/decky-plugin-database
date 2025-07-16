@@ -282,3 +282,6 @@
 [submodule "plugins/LetMeReShade"]
 	path = plugins/LetMeReShade
 	url = https://github.com/itsOwen/LetMeReShade.git
+[submodule "plugins/DeckyDate"]
+	path = plugins/DeckyDate
+	url = https://github.com/Vegita2/decky-date-change.git
